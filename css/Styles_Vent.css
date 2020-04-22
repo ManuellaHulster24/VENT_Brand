@@ -86,38 +86,15 @@ footer {
 .top-container{
 	display: grid;
 	grid-gap: 20px;
-	
-}
-/*Showcase*/
-.showcase{
-	grid-area: showcase;
-	min-height: 550px;
-	background-color: #DF336C;
-	background-size: cover;
-	background-position: center;
-	margin: 60px
-	
-
-}
-.visiontext {
-	position: relative;
-	line-height: 24px;
-	text-align: center;
-	text-decoration: none;
-	color: white;	
-	font-size: 25px;
-	padding: 5em;
-	top: 50%;
-	transform: translateY(-50%)
-	
-	
-
-	
-}
-.vision {
-	font-size: 20px;
-	text-align: center;
-	color: white;
-	padding: 6em;
 }
 
+
+.background {
+	margin: 80px;
+
+}
+.cover{
+	width: 1500px;
+	min-height: inherit;
+	margin: 1px
+}
