@@ -196,3 +196,27 @@ html {
   background: #E4405F;
   color: white;
 }
+.vision {
+
+	background-color: #df336c;
+	margin: inherit;
+	margin-bottom: 16px;
+	padding-top: 10em
+	
+}
+
+.topic {
+	color: white;
+	text-align: center;
+		
+}
+.main {
+	margin: 35px;
+}
+
+.text{
+	font-size: 20px;
+	color: white;
+	position: relative;
+	text-align: center
+}
