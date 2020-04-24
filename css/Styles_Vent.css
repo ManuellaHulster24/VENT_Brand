@@ -75,6 +75,10 @@ footer {
 .h1{
 	color: black;
 }
+/*Home Page*/
+.span {
+background-color: #df336c;
+}
 /*About Us Page*/
 html {
   box-sizing: border-box;
